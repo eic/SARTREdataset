@@ -1,0 +1,18 @@
+Generator: Sartre  https://sartre.hepforge.org
+Metadata:
+	A Sartre release: 1.39
+	A generated_events_number 1e7
+	A generated_date Fri Oct 8 2021
+	A Runcard is 'sartre_bnonsat_Au_phi.txt'.
+	A Hadron beam species: Au (197)
+	A Hadron beam:   0    0   109.996 110 (0.93827)
+	A Electron beam: 0    0   -18 18  (0.000510999)
+	A Dipole model: bNonSat
+	A Dipole model parameter set: KMW
+	A Process is e + Au -> e' + Au' + phi
+	A Random generator seed: 1633720513
+	A Kinematic limits used for event generation:
+	A        t=[-0.5, -1.51647e-08]
+	A       Q2=[1, 20]
+	A        W=[1.95772, 88.9985]
+	
